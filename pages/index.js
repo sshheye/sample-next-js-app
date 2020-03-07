@@ -5,7 +5,7 @@ function getPosts() {
   return [
     { id: 'hello-nextjs', title: 'Hello Next.js' },
     { id: 'learn-nextjs', title: 'Learn Next.js is awesome' },
-    { id: 'deploynextjs', title: 'Deploy apps with ZEIT' }
+    { id: 'deploynextjs', title: 'Depxloy apps with ZEIT' }
   ]
 }
 
