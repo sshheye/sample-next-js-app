@@ -2,6 +2,7 @@ import Layout from '../components/MyLayout.js'
 import Link from 'next/link'
 
 function getPosts() {
+  
   return [
     { id: 'hello-nextjs', title: 'Hello Next.js' },
     { id: 'learn-nextjs', title: 'Learn Next.js awesome' },
@@ -47,7 +48,7 @@ export default function Blog() {
         a {
           font-family: 'Arial';
         }
-
+x
         ul {
           padding: 0;
         }
